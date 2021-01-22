@@ -2,7 +2,7 @@
 #### Final project of Computer Vision course @ University of Padua
 
 - __[Project_june_july][1]__: Problem definition.
-- __[AUTOMATIC TREE DETECTION][2]__: Report of project, here I explain the implementation decisions and analyze the drawbacks of algorithm developed.
+- __[AUTOMATIC TREE DETECTION][2]__: Report of the project, here I explain the implementation decisions and analyze the drawbacks of the algorithm developed.
 - __[Part 1 - Results][3]__: Folder in which to find the results on the images provided as a test.
 
 [1]:https://github.com/gianmarcobortolami/tree-recognition/blob/main/Project_june_july.pdf
